@@ -21,12 +21,12 @@ permalink: /post/firstpost
 >
 >
 >>### 다른 소제목
->>'''
+>>```
 >>public class Main{
 >>	public static void main(String [] args){
 >>	}
 >>}
->>'''
+>>```
 
 
 ------
