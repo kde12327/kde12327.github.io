@@ -9,10 +9,10 @@ permalink: /post/firstpost
 이 블로그에서 첫 포스트.
 익숙하지 않은 마크다운.
 
-##마크다운 약간의 연습
+## 마크다운 약간의 연습
 > 블럭인용문자
 >
->###소제목
+>### 소제목
 >>
 >>- 목록1
 >>- 목룍2
@@ -20,12 +20,13 @@ permalink: /post/firstpost
 >>
 >
 >
->>###다른 소제목
+>>### 다른 소제목
 >>'''
 >>public class Main{
 >>	public static void main(String [] args){
 >>	}
 >>}
+>>'''
 
 
 ------
