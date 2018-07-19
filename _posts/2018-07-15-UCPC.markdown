@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "UCPC 2018 예선"
+date:   2018-7-15 23:30:00
+categories: 2018 posts competition
+permalink: /post/UCPC2018
+---
+
+오늘은 UCPC 예선이 있었다.
+대회 시간은 2시부터 5시까지.
+
+결과는 ...
+당연히 탈락.
+당연한건 아니지만
+능력부족을 절실하게 느꼈다.
+
+진짜 공부 해야지..
