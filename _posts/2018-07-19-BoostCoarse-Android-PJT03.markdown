@@ -35,21 +35,21 @@ Project3에서는 하나의 액티비티가 아닌 여러 액티비티를 띄우
 
 처음 메인화면에서 작성하기버튼과 모두보기 버튼을 눌렀을 때, 각각에 맞는 액티비티를 불러와야합니다.
 
-![BoostCourse_Android_Project03_1]({{ "/assets/boostcourse/android/project03/pjt03_1" | absolute_url }})
+![BoostCourse_Android_Project03_1]({{ "/assets/boostcourse/android/project03/pjt03_1.png" | absolute_url }})
 
 처음 메인액티비티의 화면입니다.
 
-![BoostCourse_Android_Project03_2]({{ "/assets/boostcourse/android/project03/pjt03_2" | absolute_url }})
+![BoostCourse_Android_Project03_2]({{ "/assets/boostcourse/android/project03/pjt03_2.png" | absolute_url }})
 
 작성하기를 눌렀을 때 나오는 액티비티입니다.
 
-![BoostCourse_Android_Project03_3]({{ "/assets/boostcourse/android/project03/pjt03_3" | absolute_url }})
+![BoostCourse_Android_Project03_3]({{ "/assets/boostcourse/android/project03/pjt03_3.png" | absolute_url }})
 
-![BoostCourse_Android_Project03_4]({{ "/assets/boostcourse/android/project03/pjt03_4" | absolute_url }})
+![BoostCourse_Android_Project03_4]({{ "/assets/boostcourse/android/project03/pjt03_4.png" | absolute_url }})
 
 값을 입력하고 저장을 눌렀을 때 메인액티비티에서 리스트뷰에 나옵니다.
 
-![BoostCourse_Android_Project03_5]({{ "/assets/boostcourse/android/project03/pjt03_5" | absolute_url }})
+![BoostCourse_Android_Project03_5]({{ "/assets/boostcourse/android/project03/pjt03_5.png" | absolute_url }})
 
 메인액티비티에서 모두보기를 눌렀을 때 나오는 화면입니다.
 
